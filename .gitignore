@@ -1,3 +1,4 @@
 # Ignore env folder
 env/
 data/
+__pycache__/
