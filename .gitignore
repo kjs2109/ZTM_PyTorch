@@ -3,4 +3,8 @@ env/
 data/
 saved_models/
 runs/
+practice/
+lightning_logs/ 
+tb_logs/ 
+dataset/
 __pycache__/
